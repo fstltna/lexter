@@ -1,0 +1,6 @@
+	../src/dict.c \
+	../src/list.c \
+	../src/scores.c \
+	../src/text.c \
+	../src/words.c \
+	../src/lexter.c
